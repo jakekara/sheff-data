@@ -74,7 +74,7 @@ $(function() {
     for (i = 0; i < data.length; i++) {
         //You can also pass through data points to determine size/color here, too
         makeCircle(data[i].lat, data[i].lng, data[i].School, 100 - data[i].Black_Latino_Pct, data[i].Black_Latino_Pct, data[i].Waiver);
-        console.log(data[i].School);
+        console.log(data[i]);
     }
 
     function cleanNum(num,num2) {
