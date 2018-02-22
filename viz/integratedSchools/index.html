@@ -6,8 +6,10 @@
   <!--<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>-->
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script type="text/javascript" src="//projects.ctmirror.org/libs/leaflet/leaflet.js"></script>
-  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
-  <script type="text/javascript" src="data_2016.js"></script>
+  <script type="text/javascript"
+	  src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+  <!-- use 2018 data instead -->
+  <script type="text/javascript" src="data_2018.js"></script>
   <script type="text/javascript" src="init.js"></script>
   <link rel=StyleSheet href="style.css" type="text/css">
   <link rel='stylesheet' href='//projects.ctmirror.org/tools/universal/tablestyles.css'/>
@@ -33,10 +35,25 @@
     span.legend_text.red{
       background-color: #C21E15;
     }
+    span.legend_text.yellow{
+      background-color: orange;
+    }
+    
   </style>
   <div class="interactiveContainer">
-    <div class="graphicHeader">Integrated schools in Hartford in 2016-17</div>
-    <div class="explainer">Several schools in Hartford have been targeted to improve diversity, but the large majority have not been targeted and are all still racially and ethnically isolated. Schools marked <span class='legend_text green'>green</span> are considered integrated, with a black and Hispanic population below 75%. Schools marked <span class='legend_text red'>red</span> have a black and Hispanic population of 75% or higher.</div>
+    <div class="graphicHeader">Integrated schools in Hartford in 2017-18</div>
+    <div class="explainer">
+      Several schools in Hartford have been targeted to improve diversity,
+    but the large majority have not been targeted and are all still
+    racially and ethnically isolated. Schools
+    marked <span class='legend_text green'>green</span> are considered
+    integrated, with a black and Hispanic population below 75
+    percent. Schools marked <span class='legend_text red'>red</span> have a
+    black and Hispanic population of 76 percent or higher.  Schools
+    marked <span class='legend_text yellow'>yellow</span> have black and
+    Hispanic populations between 75 and 76 percent and are in danger of
+    being segregated .
+    </div>
     <div class="mapContainer">
       <div id="map"></div>
       <!--<img src="legend.png" class="legend"/>-->

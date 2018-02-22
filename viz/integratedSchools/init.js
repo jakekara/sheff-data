@@ -1,3 +1,9 @@
+//
+// school segregation map
+// used in 2014 in some form, 2016, 2018
+// 
+
+
 $(function() {
 
     // Deciding which map layers to use
@@ -43,11 +49,32 @@ $(function() {
             var theColor = "#0C991F";
         } else if (pctwhite != null) {
             var theColor = "#FFFF00";
-        } */
-         var theColor = "#C21E15";
-         if (pctminority < 75 && pctminority > 0) {
-            theColor = "#0C991F";
-         }
+            } */
+
+	// adding in a "medium" color
+	// for schools between 75 and 76 percent minority
+
+	var default_color = "lightgray";
+	var red_color = "#C21E15";
+	var yellow_color = "orange";
+	var green_color = "#0C991F";
+	
+        var theColor = default_color;
+
+	if (pctwhite < 24) { theColor = red_color; }	
+	else if (pctwhite < 25) { theColor = yellow_color; }
+	else { theColor = green_color; }
+
+	if (pctwhite < 0){
+	    console.log("SCHOOL PROB", school);
+	    theColor = default_color; }
+
+	// if (pctminority < 75 && pctminority > 0){
+	//     theColor = yellow_color;
+	// }
+	// if (pctminority < 76 && pctminority > 0) {
+        //     theColor = green_color;
+        // }
 
         if (pctwhite != null) {
             var popupText = '<div class="mirror_table_container"><div class="mirror_table_headline">' + school + '</div>      <div class="mirror_table_subhead">' + checkSub(pctminority) + '</div><table class="mirror_table"><tbody><tr class="mirror_table_top"><th class="mirror_table_headers primary" rel="0" number="0">Pct White</th><th class="mirror_table_headers primary" rel="0" number="1">Pct Minority</th></tr><tr class="mirror_table_row"><td class="primary cell0">' + cleanNum(pctwhite,pctminority) + '</td><td class="primary cell1">' + cleanNum(pctminority,pctminority) + '</td></tr></tbody></table>      <div class="mirror_table_source"></div>  </div>';    
@@ -74,7 +101,7 @@ $(function() {
     for (i = 0; i < data.length; i++) {
         //You can also pass through data points to determine size/color here, too
         makeCircle(data[i].lat, data[i].lng, data[i].School, 100 - data[i].Black_Latino_Pct, data[i].Black_Latino_Pct, data[i].Waiver);
-        console.log(data[i].School);
+        console.log(data[i]);
     }
 
     function cleanNum(num,num2) {
