@@ -5,7 +5,7 @@ data for 2017-18. If you just want the raw data, here it is:
 
 * [applications](https://www.documentcloud.org/documents/4389074-First-Chocie-Apps-by-School-by-Grade-2017-18.html)
 * [offers](https://www.documentcloud.org/documents/4389075-Offers-by-School-by-Grade-2017-18.html)
-* [Cleaned up, merged spreadsheet](https://www.documentcloud.org/documents/4389074-First-Chocie-Apps-by-School-by-Grade-2017-18.html)
+* [Cleaned up, merged spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDOK99IEzl8m6CuPk9RAa9VCG9wSniELaT8K-OBZzguf6DAk8gkmpm0xGCKvYlzan-yvMRf94_mTfG/pubhtml)
 
 These data sets were printed and scanned then sent to us. We had to do a
 lot of cleaning to digitize the data and then combine the separate
