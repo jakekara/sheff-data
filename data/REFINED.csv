@@ -1,0 +1,550 @@
+file,grade,n_apps,n_apps_hartford,n_apps_suburban,n_offers,n_offers_hartford,n_offers_suburban,operator,school
+apps,6,32.0,7,25.0,,,,BPS,Global Experience Magnet
+apps,7,13.0,,,,,,BPS,Global Experience Magnet
+apps,8,6.0,,,,,,BPS,Global Experience Magnet
+apps,9,19.0,10,9.0,,,,BPS,Global Experience Magnet
+apps,10,9.0,,,,,,BPS,Global Experience Magnet
+apps,11,,,,,,,BPS,Global Experience Magnet
+apps,12,,,,,,,BPS,Global Experience Magnet
+apps,PK3,202.0,9,193.0,,,,BPS,Wintonbury Early Childhood Magnet
+apps,PK4,91.0,,,,,,BPS,Wintonbury Early Childhood Magnet
+apps,K,18.0,,,,,,BPS,Wintonbury Early Childhood Magnet
+apps,6,422.0,88,334.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,7,214.0,21,193.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,8,190.0,32,158.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,9,239.0,58,181.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,10,92.0,19,73.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,11,46.0,15,31.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,12,11.0,,,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,PK3,321.0,40,281.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,PK4,309.0,42,267.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,K,280.0,35,245.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,1,176.0,27,149.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,2,173.0,20,153.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,3,160.0,23,137.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,4,164.0,26,138.0,,,,CREC,Academy of Aerospace and Engineering Elementary
+apps,6,163.0,18,145.0,,,,CREC,Academy of Science and Innovation
+apps,7,63.0,,,,,,CREC,Academy of Science and Innovation
+apps,8,56.0,,,,,,CREC,Academy of Science and Innovation
+apps,9,85.0,18,67.0,,,,CREC,Academy of Science and Innovation
+apps,10,21.0,,,,,,CREC,Academy of Science and Innovation
+apps,11,13.0,,,,,,CREC,Academy of Science and Innovation
+apps,12,7.0,,,,,,CREC,Academy of Science and Innovation
+apps,PK3,123.0,24,99.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,PK4,111.0,20,91.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,K,92.0,27,65.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,1,40.0,7,33.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,2,41.0,12,29.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,3,50.0,12,38.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,4,46.0,9,37.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,5,18.0,9,9.0,,,,CREC,Ana Grace Academy of the Arts Elementary
+apps,PK3,279.0,62,217.0,,,,CREC,Discovery Academy
+apps,PK4,227.0,41,186.0,,,,CREC,Discovery Academy
+apps,K,179.0,39,140.0,,,,CREC,Discovery Academy
+apps,1,74.0,17,57.0,,,,CREC,Discovery Academy
+apps,2,70.0,17,53.0,,,,CREC,Discovery Academy
+apps,3,61.0,16,45.0,,,,CREC,Discovery Academy
+apps,4,61.0,14,47.0,,,,CREC,Discovery Academy
+apps,5,65.0,14,51.0,,,,CREC,Discovery Academy
+apps,PK3,314.0,21,293.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,PK4,288.0,23,265.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,K,220.0,30,190.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,1,118.0,18,100.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,2,78.0,10,68.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,3,111.0,14,97.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,4,76.0,10,66.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,5,119.0,20,99.0,,,,CREC,Glastonbury-East Hartford Magnet
+apps,6,181.0,49,132.0,,,,CREC,GHAA I Middle
+apps,7,69.0,10,59.0,,,,CREC,GHAA I Middle
+apps,8,72.0,14,58.0,,,,CREC,GHAA I Middle
+apps,9,216.0,90,126.0,,,,CREC,GHAA [Full-Day]
+apps,10,68.0,23,45.0,,,,CREC,GHAA [Full-Day]
+apps,11,51.0,16,35.0,,,,CREC,GHAA [Full-Day]
+apps,12,17.0,,,,,,CREC,GHAA [Full-Day]
+apps,9,104.0,11,93.0,,,,CREC,GHAA [Half-Day]
+apps,10,25.0,,,,,,CREC,GHAA [Half-Day]
+apps,11,27.0,,,,,,CREC,GHAA [Half-Day]
+apps,12,12.0,,,,,,CREC,GHAA [Half-Day]
+apps,PK3,274.0,16,258.0,,,,CREC,International Magnet School for Global Citizenship
+apps,PK4,239.0,9,230.0,,,,CREC,International Magnet School for Global Citizenship
+apps,K,176.0,15,161.0,,,,CREC,International Magnet School for Global Citizenship
+apps,1,93.0,,,,,,CREC,International Magnet School for Global Citizenship
+apps,2,62.0,,,,,,CREC,International Magnet School for Global Citizenship
+apps,3,47.0,,,,,,CREC,International Magnet School for Global Citizenship
+apps,4,32.0,,,,,,CREC,International Magnet School for Global Citizenship
+apps,5,49.0,,,,,,CREC,International Magnet School for Global Citizenship
+apps,6,122.0,44,78.0,,,,CREC,MLC Magnet for Global and International Studies
+apps,7,30.0,11,19.0,,,,CREC,MLC Magnet for Global and International Studies
+apps,8,20.0,7,13.0,,,,CREC,MLC Magnet for Global and International Studies
+apps,9,29.0,11,18.0,,,,CREC,MLC Magnet for Global and International Studies
+apps,10,16.0,,,,,,CREC,MLC Magnet for Global and International Studies
+apps,11,6.0,,,,,,CREC,MLC Magnet for Global and International Studies
+apps,12,,,,,,,CREC,MLC Magnet for Global and International Studies
+apps,PK3,135.0,52                     ,83,,,,CREC,Montessori Magnet (CREC)
+apps,PK4,76.0,45,31.0,,,,CREC,Montessori Magnet (CREC)
+apps,K,91.0,55,36.0,,,,CREC,Montessori Magnet (CREC)
+apps,1,51.0,31,20.0,,,,CREC,Montessori Magnet (CREC)
+apps,2,55.0,39,16.0,,,,CREC,Montessori Magnet (CREC)
+apps,3,41.0,22,19.0,,,,CREC,Montessori Magnet (CREC)
+apps,4,34.0,19,15.0,,,,CREC,Montessori Magnet (CREC)
+apps,5,66.0,36,30.0,,,,CREC,Montessori Magnet (CREC)
+apps,PK3,100.0,19,81.0,,,,CREC,Museum Academy
+apps,PK4,68.0,8,60.0,,,,CREC,Museum Academy
+apps,K,64.0,6,58.0,,,,CREC,Museum Academy
+apps,1,31.0,,,,,,CREC,Museum Academy
+apps,2,32.0,6,26.0,,,,CREC,Museum Academy
+apps,3,30.0,,,,,,CREC,Museum Academy
+apps,4,16.0,,,,,,CREC,Museum Academy
+apps,5,21.0,,,,,,CREC,Museum Academy
+apps,8,19.0,7,12.0,,,,CREC,Public Safety Academy
+apps,9,66.0,35,31.0,,,,CREC,Public Safety Academy
+apps,10,21.0,10,11.0,,,,CREC,Public Safety Academy
+apps,11,17.0,6,11.0,,,,CREC,Public Safety Academy
+apps,12,,,,,,,CREC,Public Safety Academy
+apps,PK3,166.0,9,157.0,,,,CREC,Reggio Magnet School of the Arts
+apps,PK4,143.0,7,136.0,,,,CREC,Reggio Magnet School of the Arts
+apps,K,87.0,10,77.0,,,,CREC,Reggio Magnet School of the Arts
+apps,1,35.0,,,,,,CREC,Reggio Magnet School of the Arts
+apps,2,45.0,7,38.0,,,,CREC,Reggio Magnet School of the Arts
+apps,3,28.0,,,,,,CREC,Reggio Magnet School of the Arts
+apps,4,23.0,8,15.0,,,,CREC,Reggio Magnet School of the Arts
+apps,5,33.0,10,23.0,,,,CREC,Reggio Magnet School of the Arts
+apps,6,266.0,46,220.0,,,,CREC,Two Rivers Magnet Middle
+apps,7,72.0,16,56.0,,,,CREC,Two Rivers Magnet Middle
+apps,8,50.0,10,40.0,,,,CREC,Two Rivers Magnet Middle
+apps,PK3,211.0,70,141.0,,,,CREC,University of Hartford Magnet
+apps,PK4,166.0,59,107.0,,,,CREC,University of Hartford Magnet
+apps,K,149.0,70,79.0,,,,CREC,University of Hartford Magnet
+apps,1,77.0,27,50.0,,,,CREC,University of Hartford Magnet
+apps,2,83.0,29,54.0,,,,CREC,University of Hartford Magnet
+apps,3,76.0,32,44.0,,,,CREC,University of Hartford Magnet
+apps,4,57.0,27,30.0,,,,CREC,University of Hartford Magnet
+apps,5,69.0,25,44.0,,,,CREC,University of Hartford Magnet
+apps,9,199.0,40,159.0,,,,EHPS,Connecticut IB Academy
+apps,10,40.0,6,34.0,,,,EHPS,Connecticut IB Academy
+apps,9,230.0,119,111.0,,,,Goodwin,Connecticut River Academy
+apps,10,43.0,14,29.0,,,,Goodwin,Connecticut River Academy
+apps,11,20.0,7,13.0,,,,Goodwin,Connecticut River Academy
+apps,12,9.0,,,,,,Goodwin,Connecticut River Academy
+apps,PK3,153.0,25,128.0,,,,Goodwin,Riverside Magnet
+apps,PK4,126.0,27,99.0,,,,Goodwin,Riverside Magnet
+apps,K,101.0,16,85.0,,,,Goodwin,Riverside Magnet
+apps,1,41.0,,,,,,Goodwin,Riverside Magnet
+apps,2,44.0,9,35.0,,,,Goodwin,Riverside Magnet
+apps,3,40.0,11,29.0,,,,Goodwin,Riverside Magnet
+apps,4,41.0,6,35.0,,,,Goodwin,Riverside Magnet
+apps,PK3,73.0,25,48.0,,,,HPS,Betances Early Reading Lab Magnet
+apps,PK4,48.0,20,28.0,,,,HPS,Betances Early Reading Lab Magnet
+apps,K,51.0,26,25.0,,,,HPS,Betances Early Reading Lab Magnet
+apps,1,21.0,11,10.0,,,,HPS,Betances Early Reading Lab Magnet
+apps,2,26.0,16,10.0,,,,HPS,Betances Early Reading Lab Magnet
+apps,3,15.0,,,,,,HPS,Betances Early Reading Lab Magnet
+apps,4,80.0,36,44.0,,,,HPS,Betances STEM Magnet
+apps,5,31.0,13,18.0,,,,HPS,Betances STEM Magnet
+apps,6,14.0,8,6.0,,,,HPS,Betances STEM Magnet
+apps,7,21.0,12,9.0,,,,HPS,Betances STEM Magnet
+apps,8,9.0,,,,,,HPS,Betances STEM Magnet
+apps,PK3,32.0,15,17.0,,,,HPS,Breakthrough II Magnet
+apps,PK4,29.0,15,14.0,,,,HPS,Breakthrough II Magnet
+apps,K,42.0,33,9.0,,,,HPS,Breakthrough II Magnet
+apps,1,18.0,12,6.0,,,,HPS,Breakthrough II Magnet
+apps,2,9.0,,,,,,HPS,Breakthrough II Magnet
+apps,3,24.0,18,6.0,,,,HPS,Breakthrough II Magnet
+apps,4,14.0,,,,,,HPS,Breakthrough II Magnet
+apps,5,18.0,11,7.0,,,,HPS,Breakthrough II Magnet
+apps,6,,,,,,,HPS,Breakthrough II Magnet
+apps,7,,,,,,,HPS,Breakthrough II Magnet
+apps,8,,,,,,,HPS,Breakthrough II Magnet
+apps,PK3,77.0,41,36.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,PK4,47.0,27,20.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,K,53.0,36,17.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,1,26.0,14,12.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,2,32.0,17,15.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,3,36.0,28,8.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,4,33.0,22,11.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,5,32.0,17,15.0,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,6,9.0,,,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,7,11.0,,,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,8,,,,,,,HPS,"Breakthrough Magnet, South Campus"
+apps,11,30.0,9,21.0,,,,HPS,Capital Community College Magnet Academy
+apps,12,8.0,,,,,,HPS,Capital Community College Magnet Academy
+apps,PK3,100.0,55,45.0,,,,HPS,Capital Prep - Lower School Program
+apps,PK4,96.0,59,37.0,,,,HPS,Capital Prep - Lower School Program
+apps,K,121.0,76,45.0,,,,HPS,Capital Prep - Lower School Program
+apps,1,80.0,38,42.0,,,,HPS,Capital Prep - Lower School Program
+apps,2,69.0,39,30.0,,,,HPS,Capital Prep - Lower School Program
+apps,3,74.0,32,42.0,,,,HPS,Capital Prep - Lower School Program
+apps,4,58.0,29,29.0,,,,HPS,Capital Prep - Lower School Program
+apps,5,84.0,35,49.0,,,,HPS,Capital Prep - Lower School Program
+apps,6,76.0,37,39.0,,,,HPS,Capital Prep - Upper School Program
+apps,7,40.0,24,16.0,,,,RPS,Capital Prep - Upper School Program
+apps,8,30.0,16,14.0,,,,HPS,Capital Prep - Upper School Program
+apps,9,73.0,38,35.0,,,,HPS,Capital Prep - Upper School Program
+apps,10,28.0,14,14.0,,,,HPS,Capital Prep - Upper School Program
+apps,11,13.0,,,,,,RPS,Capital Prep - Upper School Program
+apps,12,8.0,,,,,,HPS,Capital Prep - Upper School Program
+apps,6,46.0,22,24.0,,,,HPS,Classical Magnet
+apps,7,29.0,9,20.0,,,,HPS,Classical Magnet
+apps,8,22.0,12,10.0,,,,HPS,Classical Magnet
+apps,9,53.0,39,14.0,,,,HPS,Classical Magnet
+apps,10,9.0,,,,,,RPS,Classical Magnet
+apps,11,13.0,,,,,,HPS,Classical Magnet
+apps,12,,,,,,,HPS,Classical Magnet
+apps,PK4,101.0,40,61.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,K,49.0,23,26.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,1,16.0,7,9.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,2,38.0,20,18.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,3,39.0,21,18.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,4,43.0,31,12.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,5,43.0,22,21.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,6,28.0,19,9.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,7,16.0,9,7.0,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,8,7.0,,,,,,HPS,Environmental Sciences @ Mary M. Hooker
+apps,9,134.0,53,81.0,,,,RPS,Great Path Academy
+apps,10,39.0,15,24.0,,,,HPS,Great Path Academy
+apps,11,19.0,,,,,,HPS,Great Path Academy
+apps,12,11.0,,,,,,HPS,Great Path Academy
+apps,6,229.0,132,97.0,,,,HPS,HMTCA - (Grades 6-12)
+apps,7,104.0,62,42.0,,,,HPS,HMTCA - (Grades 6-12)
+apps,8,62.0,37,25.0,,,,HPS,HMTCA - (Grades 6-12)
+apps,9,179.0,118,61.0,,,,HPS,HMTCA - (Grades 6-12)
+apps,10,39.0,24,15.0,,,,HPS,HMTCA - (Grades 6-12)
+apps,11,35.0,26,9.0,,,,HPS,HMTCA - (Grades 6-12)
+apps,12,9.0,,,,,,HPS,HMTCA - (Grades 6-12)
+apps,6,25.0,7,18.0,,,,HPS,HMTCA - (Grades 6-8)
+apps,7,10.0,,,,,,HPS,HMTCA - (Grades 6-8)
+apps,8,,,,,,,HPS,HMTCA - (Grades 6-8)
+apps,PK3,144.0,65,79.0,,,,HPS,Hartford PreKindergarten Magnet
+apps,PK4,76.0,35,41.0,,,,HPS,Hartford PreKindergarten Magnet
+apps,PK3,63.0,27,36.0,,,,HPS,Montessori Magnet at Moylan
+apps,PK4,28.0,17,11.0,,,,HPS,Montessori Magnet at Moylan
+apps,K,40.0,23,17.0,,,,HPS,Montessori Magnet at Moylan
+apps,1,19.0,6,13.0,,,,HPS,Montessori Magnet at Moylan
+apps,2,18.0,10,8.0,,,,HPS,Montessori Magnet at Moylan
+apps,3,12.0,6,6.0,,,,HPS,Montessori Magnet at Moylan
+apps,4,,,,,,,HPS,Montessori Magnet at Moylan
+apps,5,,,,,,,HPS,Montessori Magnet at Moylan
+apps,6,,,,,,,HPS,Montessori Magnet at Moylan
+apps,PK3,83.0,26,57.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,PK4,56.0,18,38.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,K,53.0,26,27.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,1,30.0,9,21.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,2,18.0,11,7.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,3,24.0,13,11.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,4,24.0,10,14.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,5,12.0,,,,,,HPS,Montessori Magnet at Annie Fisher
+apps,6,27.0,10,17.0,,,,HPS,Montessori Magnet at Annie Fisher
+apps,7,10.0,,,,,,HPS,Montessori Magnet at Annie Fisher
+apps,8,7.0,,,,,,HPS,Montessori Magnet at Annie Fisher
+apps,PK3,121.0,58,63.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,PK4,61.0,27,34.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,K,54.0,27,27.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,1,26.0,19,7.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,2,24.0,13,11.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,3,20.0,11,9.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,4,30.0,21,9.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,5,29.0,13,16.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,6,9.0,,,,,,HPS,Noah Webster MicroSociety Magnet
+apps,7,14.0,6,8.0,,,,HPS,Noah Webster MicroSociety Magnet
+apps,8,,,,,,,HPS,Noah Webster MicroSociety Magnet
+apps,9,217.0,101,116.0,,,,HPS,Pathways Academy of Technology and Design
+apps,10,31.0,13,18.0,,,,HPS,Pathways Academy of Technology and Design
+apps,11,37.0,11,26.0,,,,HPS,Pathways Academy of Technology and Design
+apps,12,13.0,6,7.0,,,,HPS,Pathways Academy of Technology and Design
+apps,PK4,94.0,27,67.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,K,88.0,51,37.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,1,49.0,28,21.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,2,52.0,28,24.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,3,66.0,41,25.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,4,59.0,28,31.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,5,78.0,34,44.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,6,61.0,24,37.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,7,38.0,22,16.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,8,20.0,11,9.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,9,43.0,29,14.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,10,17.0,7,10.0,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,11,6.0,,,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,12,,,,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+apps,6,141.0,78,63.0,,,,HPS,Sport and Medical Sciences Academy
+apps,7,57.0,18,39.0,,,,HPS,Sport and Medical Sciences Academy
+apps,8,79.0,28,51.0,,,,HPS,Sport and Medical Sciences Academy
+apps,9,194.0,123,71.0,,,,HPS,Sport and Medical Sciences Academy
+apps,10,43.0,23,20.0,,,,HPS,Sport and Medical Sciences Academy
+apps,11,33.0,19,14.0,,,,HPS,Sport and Medical Sciences Academy
+apps,12,,,,,,,HPS,Sport and Medical Sciences Academy
+apps,K,101.0,38,63.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,1,53.0,10,43.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,2,43.0,8,35.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,3,39.0,10,29.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,4,34.0,13,21.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,5,34.0,12,22.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,6,21.0,7,14.0,,,,HPS,STEM Magnet at Annie Fisher
+apps,7,10.0,,,,,,HPS,STEM Magnet at Annie Fisher
+apps,8,7.0,,,,,,HPS,STEM Magnet at Annie Fisher
+apps,9,200.0,97,103.0,,,,HPS,University High School of Science and Engineering
+apps,10,39.0,15,24.0,,,,HPS,University High School of Science and Engineering
+apps,11,31.0,10,21.0,,,,HPS,University High School of Science and Engineering
+apps,12,,,,,,,HPS,University High School of Science and Engineering
+offers,6,,,,72,20,52,BPS,Global Experience Magnet
+offers,7,,,,9,,9,BPS,Global Experience Magnet
+offers,8,,,,11,,11,BPS,Global Experience Magnet
+offers,9,,,,25,11,14,BPS,Global Experience Magnet
+offers,10,,,,11,,11,BPS,Global Experience Magnet
+offers,11,,,,,,,BPS,Global Experience Magnet
+offers,12,,,,,,,BPS,Global Experience Magnet
+offers,PK3,,,,149,33,116,BPS,Wintonbury Early Childhood Magnet
+offers,PK4,,,,9,,,BPS,Wintonbury Early Childhood Magnet
+offers,K,,,,8,,,BPS,Wintonbury Early Childhood Magnet
+offers,6,,,,125,61,64,CREC,Academy of Aerospace and Engineering Elementary
+offers,7,,,,17,8,9,CREC,Academy of Aerospace and Engineering Elementary
+offers,8,,,,,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,9,,,,18,10,8,CREC,Academy of Aerospace and Engineering Elementary
+offers,10,,,,6,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,12,,,,,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,PK3,,,,38,17,21,CREC,Academy of Aerospace and Engineering Elementary
+offers,PK4,,,,,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,K,,,,18,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,1,,,,8,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,2,,,,,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,3,,,,7,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,4,,,,9,,,CREC,Academy of Aerospace and Engineering Elementary
+offers,6,,,,78,19,59,CREC,Academy of Science and Innovation
+offers,7,,,,23,,,CREC,Academy of Science and Innovation
+offers,8,,,,30,,,CREC,Academy of Science and Innovation
+offers,9,,,,27,,,CREC,Academy of Science and Innovation
+offers,10,,,,,,,CREC,Academy of Science and Innovation
+offers,11,,,,,,,CREC,Academy of Science and Innovation
+offers,12,,,,,,,CREC,Academy of Science and Innovation
+offers,PK3,,,,49,25,24,CREC,Ana Grace Academy of the Arts Elementary
+offers,PK4,,,,,,,CREC,Ana Grace Academy of the Arts Elementary
+offers,K,,,,65,26,39,CREC,Ana Grace Academy of the Arts Elementary
+offers,1,,,,16,9,7,CREC,Ana Grace Academy of the Arts Elementary
+offers,2,,,,22,14,8,CREC,Ana Grace Academy of the Arts Elementary
+offers,3,,,,25,13,12,CREC,Ana Grace Academy of the Arts Elementary
+offers,4,,,,8,,,CREC,Ana Grace Academy of the Arts Elementary
+offers,5,,,,,,,CREC,Ana Grace Academy of the Arts Elementary
+offers,PK3,,,,60,34,26,CREC,Discovery Academy
+offers,PK4,,,,6,,,CREC,Discovery Academy
+offers,K,,,,16,7,9,CREC,Discovery Academy
+offers,1,,,,,,,CREC,Discovery Academy
+offers,2,,,,,,,CREC,Discovery Academy
+offers,3,,,,6,,,CREC,Discovery Academy
+offers,4,,,,,,,CREC,Discovery Academy
+offers,5,,,,,,,CREC,Discovery Academy
+offers,PK3,,,,27,10,17,CREC,Glastonbury-East Hartford Magnet
+offers,PK4,,,,11,,,CREC,Glastonbury-East Hartford Magnet
+offers,K,,,,53,20,33,CREC,Glastonbury-East Hartford Magnet
+offers,1,,,,14,7,7,CREC,Glastonbury-East Hartford Magnet
+offers,2,,,,13,,,CREC,Glastonbury-East Hartford Magnet
+offers,3,,,,17,7,IO,CREC,Glastonbury-East Hartford Magnet
+offers,4,,,,9,,,CREC,Glastonbury-East Hartford Magnet
+offers,5,,,,,,,CREC,Glastonbury-East Hartford Magnet
+offers,6,,,,151,75,76,CREC,GHAA I Middle
+offers,7,,,,11,,,CREC,GHAA I Middle
+offers,8,,,,16,9,7,CREC,GHAA I Middle
+offers,9,,,,72,37,35,CREC,GHAA [Full-Day]
+offers,10,,,,28,14,14,CREC,GHAA [Full-Day]
+offers,11,,,,11,,,CREC,GHAA [Full-Day]
+offers,12,,,,,,,CREC,GHAA [Full-Day]
+offers,9,,,,180,31,149,CREC,GHAA [Half-Day]
+offers,10,,,,60,12,48,CREC,GHAA [Half-Day]
+offers,11,,,,51,11,40,CREC,GHAA [Half-Day]
+offers,12,,,,21,,,CREC,GHAA [Half-Day]
+offers,PK3,,,,56,28,28,CREC,International Magnet School for Global Citizenship
+offers,PK4,,,,,,,CREC,International Magnet School for Global Citizenship
+offers,K,,,,41,20,21,CREC,International Magnet School for Global Citizenship
+offers,1,,,,28,12,16,CREC,International Magnet School for Global Citizenship
+offers,2,,,,16,,,CREC,International Magnet School for Global Citizenship
+offers,3,,,,28,16,12,CREC,International Magnet School for Global Citizenship
+offers,4,,,,22,15,7,CREC,International Magnet School for Global Citizenship
+offers,5,,,,12,,,CREC,International Magnet School for Global Citizenship
+offers,6,,,,118,34,84,CREC,MLC Magnet for Global and International Studies
+offers,7,,,,16,,,CREC,MLC Magnet for Global and International Studies
+offers,8,,,,11,,,CREC,MLC Magnet for Global and International Studies
+offers,9,,,,15,,15,CREC,MLC Magnet for Global and International Studies
+offers,10,,,,15,,,CREC,MLC Magnet for Global and International Studies
+offers,11,,,,,,,CREC,MLC Magnet for Global and International Studies
+offers,PK3,,,,65,40,25,CREC,Montessori Magnet (CREC)
+offers,PK4,,,,8,,,CREC,Montessori Magnet (CREC)
+offers,K,,,,,,,CREC,Montessori Magnet (CREC)
+offers,1,,,,9,,,CREC,Montessori Magnet (CREC)
+offers,2,,,,,,,CREC,Montessori Magnet (CREC)
+offers,4,,,,14,,,CREC,Montessori Magnet (CREC)
+offers,PK3,,,,81,42,39,CREC,Museum Academy
+offers,PK4,,,,21,9,,CREC,Museum Academy
+offers,K,,,,39,19,,CREC,Museum Academy
+offers,1,,,,17,8,,CREC,Museum Academy
+offers,2,,,,14,6,,CREC,Museum Academy
+offers,3,,,,6,,,CREC,Museum Academy
+offers,4,,,,9,,,CREC,Museum Academy
+offers,5,,,,10,,,CREC,Museum Academy
+offers,8,,,,13,,,CREC,Public Safety Academy
+offers,9,,,,64,25,,CREC,Public Safety Academy
+offers,10,,,,16,,,CREC,Public Safety Academy
+offers,11,,,,15,7,,CREC,Public Safety Academy
+offers,12,,,,,,,CREC,Public Safety Academy
+offers,PK3,,,,76,41,,CREC,Reggio Magnet School of the Arts
+offers,PK4,,,,30,IO,,CREC,Reggio Magnet School of the Arts
+offers,K,,,,75,32,,CREC,Reggio Magnet School of the Arts
+offers,1,,,,36,15,,CREC,Reggio Magnet School of the Arts
+offers,2,,,,23,,,CREC,Reggio Magnet School of the Arts
+offers,3,,,,12,,,CREC,Reggio Magnet School of the Arts
+offers,4,,,,25,18,,CREC,Reggio Magnet School of the Arts
+offers,5,,,,20,,,CREC,Reggio Magnet School of the Arts
+offers,6,,,,287,101,,CREC,Two Rivers Magnet Middle
+offers,7,,,,69,40,,CREC,Two Rivers Magnet Middle
+offers,8,,,,28,7,,CREC,Two Rivers Magnet Middle
+offers,PK3,,,,44,9,35,CREC,University of Hartford Magnet
+offers,PK4,,,,7,,,CREC,University of Hartford Magnet
+offers,K,,,,60,27,,CREC,University of Hartford Magnet
+offers,1,,,,12,,,CREC,University of Hartford Magnet
+offers,2,,,,19,,,CREC,University of Hartford Magnet
+offers,3,,,,9,,,CREC,University of Hartford Magnet
+offers,4,,,,9,,,CREC,University of Hartford Magnet
+offers,5,,,,7,,,CREC,University of Hartford Magnet
+offers,9,,,,79,22,,EHPS,Connecticut IB Academy
+offers,10,,,,,,,EHPS,Connecticut IB Academy
+offers,9,,,,201,107,,Goodwin,Connecticut River Academy
+offers,10,,,,14,7,,Goodwin,Connecticut River Academy
+offers,11,,,,,,,Goodwin,Connecticut River Academy
+offers,PK3,,,,38,13,25,Goodwin,Riverside Magnet
+offers,PK4,,,,26,12,14,Goodwin,Riverside Magnet
+offers,K,,,,17,,,Goodwin,Riverside Magnet
+offers,1,,,,6,,,Goodwin,Riverside Magnet
+offers,2,,,,,,,Goodwin,Riverside Magnet
+offers,3,,,,12,,,Goodwin,Riverside Magnet
+offers,4,,,,13,,,Goodwin,Riverside Magnet
+offers,PK3,,,,51,27,24,HPS,Betances Early Reading Lab Magnet
+offers,PK4,,,,15,9,6,HPS,Betances Early Reading Lab Magnet
+offers,K,,,,70,23,47,HPS,Betances Early Reading Lab Magnet
+offers,1,,,,53,15,38,HPS,Betances Early Reading Lab Magnet
+offers,2,,,,54,27,27,HPS,Betances Early Reading Lab Magnet
+offers,3,,,,29,9,20,HPS,Betances Early Reading Lab Magnet
+offers,4,,,,93,31,62,HPS,Betances STEM Magnet
+offers,5,,,,32,,,HPS,Betances STEM Magnet
+offers,6,,,,53,,,HPS,Betances STEM Magnet
+offers,7,,,,83,11,72,HPS,Betances STEM Magnet
+offers,8,,,,52,,,HPS,Betances STEM Magnet
+offers,PK3,,,,44,16,28,HPS,Breakthrough II Magnet
+offers,PK4,,,,39,13,26,HPS,Breakthrough II Magnet
+offers,K,,,,20,,,HPS,Breakthrough II Magnet
+offers,1,,,,20,6,14,HPS,Breakthrough II Magnet
+offers,2,,,,19,,,HPS,Breakthrough II Magnet
+offers,3,,,,7,,7,HPS,Breakthrough II Magnet
+offers,4,,,,7,,,HPS,Breakthrough II Magnet
+offers,5,,,,21,9,12,HPS,Breakthrough II Magnet
+offers,6,,,,13,7,6,HPS,Breakthrough II Magnet
+offers,8,,,,,,,HPS,Breakthrough II Magnet
+offers,PK3,,,,31,11,20,HPS,"Breakthrough Magnet, South Campus"
+offers,PK4,,,,,,,HPS,"Breakthrough Magnet, South Campus"
+offers,K,,,,14,,,HPS,"Breakthrough Magnet, South Campus"
+offers,1,,,,8,,,HPS,"Breakthrough Magnet, South Campus"
+offers,2,,,,8,,,HPS,"Breakthrough Magnet, South Campus"
+offers,3,,,,9,,,HPS,"Breakthrough Magnet, South Campus"
+offers,4,,,,,,,HPS,"Breakthrough Magnet, South Campus"
+offers,5,,,,14,,,HPS,"Breakthrough Magnet, South Campus"
+offers,6,,,,21,,,HPS,"Breakthrough Magnet, South Campus"
+offers,7,,,,7,,,HPS,"Breakthrough Magnet, South Campus"
+offers,8,,,,,,,HPS,"Breakthrough Magnet, South Campus"
+offers,11,,,,38,19,,HPS,Capital Community College Magnet Academy
+offers,12,,,,19,9,,HPS,Capital Community College Magnet Academy
+offers,PK3,,,,19,,19,HPS,Capital Prep - Lower School Program
+offers,PK4,,,,7,,,HPS,Capital Prep - Lower School Program
+offers,K,,,,10,,,HPS,Capital Prep - Lower School Program
+offers,1,,,,8,,,HPS,Capital Prep - Lower School Program
+offers,2,,,,,,,HPS,Capital Prep - Lower School Program
+offers,3,,,,7,,,HPS,Capital Prep - Lower School Program
+offers,4,,,,6,,,HPS,Capital Prep - Lower School Program
+offers,5,,,,13,7,,HPS,Capital Prep - Lower School Program
+offers,6,,,,34,15,,HPS,Capital Prep - Upper School Program
+offers,7,,,,8,,,HPS,Capital Prep - Upper School Program
+offers,8,,,,6,,,HPS,Capital Prep - Upper School Program
+offers,9,,,,23,13,,HPS,Capital Prep - Upper School Program
+offers,10,,,,17,10,,HPS,Capital Prep - Upper School Program
+offers,11,,,,9,,,HPS,Capital Prep - Upper School Program
+offers,12,,,,26,,,HPS,Capital Prep - Upper School Program
+offers,6,,,,81,24,,HPS,Classical Magnet
+offers,7,,,,60,,,HPS,Classical Magnet
+offers,8,,,,13,,,HPS,Classical Magnet
+offers,9,,,,20,,,HPS,Classical Magnet
+offers,10,,,,21,15,,HPS,Classical Magnet
+offers,11,,,,19,,,HPS,Classical Magnet
+offers,12,,,,27,,,HPS,Classical Magnet
+offers,PK4,,,,64,33,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,K,,,,19,12,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,1,,,,20,8,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,2,,,,9,,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,3,,,,7,7,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,4,,,,14,,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,5,,,,13,,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,6,,,,16,,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,7,,,,18,,,HPS,Environmental Sciences @ Mary M. Hooker
+offers,9,,,,146,79,,HPS,Great Path Academy
+offers,10,,,,33,15,,HPS,Great Path Academy
+offers,11,,,,11,,,HPS,Great Path Academy
+offers,6,,,,171,83,,HPS,HMTCA - (Grades 6-12)
+offers,7,,,,42,26,,HPS,HMTCA - (Grades 6-12)
+offers,8,,,,21,,,HPS,HMTCA - (Grades 6-12)
+offers,9,,,,17,6,,HPS,HMTCA - (Grades 6-12)
+offers,10,,,,,,,HPS,HMTCA - (Grades 6-12)
+offers,11,,,,,,,HPS,HMTCA - (Grades 6-12)
+offers,6,,,,71,24,,HPS,HMTCA - (Grades 6-8)
+offers,7,,,,35,22,,HPS,HMTCA - (Grades 6-8)
+offers,8,,,,7,,,HPS,HMTCA - (Grades 6-8)
+offers,PK3,,,,102,47,55,HPS,Hartford PreKindergarten Magnet
+offers,PK4,,,,73,29,44,HPS,Hartford PreKindergarten Magnet
+offers,PK3,,,,78,32,46,HPS,Montessori Magnet at Moylan
+offers,PK4,,,,,,,HPS,Montessori Magnet at Moylan
+offers,1,,,,13,,,HPS,Montessori Magnet at Moylan
+offers,2,,,,,,,HPS,Montessori Magnet at Moylan
+offers,4,,,,,,,HPS,Montessori Magnet at Moylan
+offers,PK3,,,,74,44,30,HPS,Montessori Magnet at Annie Fisher
+offers,PK4,,,,22,14,8,HPS,Montessori Magnet at Annie Fisher
+offers,1,,,,,,,HPS,Montessori Magnet at Annie Fisher
+offers,2,,,,,,,HPS,Montessori Magnet at Annie Fisher
+offers,3,,,,,,,HPS,Montessori Magnet at Annie Fisher
+offers,4,,,,,,,HPS,Montessori Magnet at Annie Fisher
+offers,7,,,,8,,,HPS,Montessori Magnet at Annie Fisher
+offers,PK3,,,,56,17,39,HPS,Noah Webster MicroSociety Magnet
+offers,PK4,,,,22,9,13,HPS,Noah Webster MicroSociety Magnet
+offers,K,,,,48,14,34,HPS,Noah Webster MicroSociety Magnet
+offers,1,,,,14,,14,HPS,Noah Webster MicroSociety Magnet
+offers,2,,,,17,,,HPS,Noah Webster MicroSociety Magnet
+offers,3,,,,,,,HPS,Noah Webster MicroSociety Magnet
+offers,4,,,,,,,HPS,Noah Webster MicroSociety Magnet
+offers,5,,,,,,,HPS,Noah Webster MicroSociety Magnet
+offers,6,,,,15,,15,HPS,Noah Webster MicroSociety Magnet
+offers,7,,,,,,,HPS,Noah Webster MicroSociety Magnet
+offers,8,,,,,,,HPS,Noah Webster MicroSociety Magnet
+offers,9,,,,160,68,92,HPS,Pathways Academy of Technology and Design
+offers,10,,,,18,6,12,HPS,Pathways Academy of Technology and Design
+offers,11,,,,,,,HPS,Pathways Academy of Technology and Design
+offers,PK4,,,,66,25,41,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,K,,,,28,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,1,,,,10,,10,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,2,,,,6,,6,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,3,,,,9,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,4,,,,12,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,5,,,,21,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,6,,,,30,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,7,,,,18,,18,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,8,,,,22,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,9,,,,35,10,25,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,10,,,,6,,6,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,11,,,,,,,HPS,R.J. Kinsella Magnet School of the Performing Arts
+offers,6,,,,123,53,70,HPS,Sport and Medical Sciences Academy
+offers,7,,,,12,,12,RPS,Sport and Medical Sciences Academy
+offers,8,,,,15,,,HPS,Sport and Medical Sciences Academy
+offers,9,,,,87,15,72,HPS,Sport and Medical Sciences Academy
+offers,10,,,,52,11,41,HPS,Sport and Medical Sciences Academy
+offers,11,,,,39,11,28,HPS,Sport and Medical Sciences Academy
+offers,K,,,,49,27,22,HPS,STEM Magnet at Annie Fisher
+offers,1,,,,IO,,,HPS,STEM Magnet at Annie Fisher
+offers,2,,,,,,,HPS,STEM Magnet at Annie Fisher
+offers,3,,,,7,,,HPS,STEM Magnet at Annie Fisher
+offers,4,,,,,,,RPS,STEM Magnet at Annie Fisher
+offers,6,,,,,,,HPS,STEM Magnet at Annie Fisher
+offers,7,,,,,,,RPS,STEM Magnet at Annie Fisher
+offers,8,,,,8,,,HPS,STEM Magnet at Annie Fisher
+offers,9,,,,183,97,86,HPS,University High School of Science and Engineering
+offers,10,,,,17,7,IO,HPS,University High School of Science and Engineering
