@@ -17,7 +17,7 @@ The basic steps included:
 
 ### 1. Get the raw data
 
-PDF files are available here, containing:
+PDF files are available in the raw_data directory:
 
 * The number of applicants who chose each school as their first choice. The
   data is available for each grade all students, as well as broken down
