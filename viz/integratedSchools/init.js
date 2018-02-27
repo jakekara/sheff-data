@@ -61,13 +61,21 @@ $(function() {
 	
         var theColor = default_color;
 
-	if (pctwhite < 24) { theColor = red_color; }	
-	else if (pctwhite < 25) { theColor = yellow_color; }
-	else { theColor = green_color; }
+	if (pctminority < 75) { theColor = green_color; }
+	else if (pctminority < 76) { theColor = yellow_color; }
+	else if (pctminority >= 76) { theColor = red_color; }
 
-	if (pctwhite < 0){
-	    console.log("SCHOOL PROB", school);
-	    theColor = default_color; }
+	// console.log(pctminority, the_color);
+
+	// if (pctwhite < 24) { theColor = red_color; }	
+	// else if (pctwhite < 25) { theColor = yellow_color; }
+	// else { theColor = green_color; }
+
+	// if (pctwhite < 0){
+	//     console.log("SCHOOL PROB", school);
+	//     theColor = default_color; }
+
+	// ----------
 
 	// if (pctminority < 75 && pctminority > 0){
 	//     theColor = yellow_color;

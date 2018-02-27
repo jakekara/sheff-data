@@ -1,5 +1,12 @@
 ## Cleanup of school segregation and school choice lottery data
 
+TL;DR -- This repository contains all the work done to clean up the school lottery
+data for 2017-18. If you just want the raw data, here it is:
+
+* [applications](https://www.documentcloud.org/documents/4389074-First-Chocie-Apps-by-School-by-Grade-2017-18.html)
+* [offers](https://www.documentcloud.org/documents/4389075-Offers-by-School-by-Grade-2017-18.html)
+* [Cleaned up, merged spreadsheet](https://www.documentcloud.org/documents/4389074-First-Chocie-Apps-by-School-by-Grade-2017-18.html)
+
 These data sets were printed and scanned then sent to us. We had to do a
 lot of cleaning to digitize the data and then combine the separate
 spreadsheets.
@@ -45,7 +52,9 @@ In the notebook [Odds of getting in - 2.ipynb](Odds of getting in -
 OpenRefine. The OpenRefine project is called
 [REFINED.openrefine.tar.gz](REFINED.openrefine.tar.gz).
 
-But that wasn't enough cleaning. OpenRefine is amazing for finding similar
+But that wasn't enough cleaning.
+
+OpenRefine is amazing for finding similar
 words that should probably be the same, but I also needed to look for other
 mistakes Refine wouldn't catch, such as empty cells that shouldn't be
 empty. 
@@ -53,9 +62,12 @@ empty.
 You'll note that a lot of the original data is missing, suppressed
 for privacy reasons, so that's OK. But I went through the data looking for
 cells that were empty that shouldn't be. I did that the old fashioned way,
-comparing a printed out version of the two raw PDFs to the product of the
+comparing both sheets, printed out to the product of the
 Refine process, in a Google spreadsheet
 [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDOK99IEzl8m6CuPk9RAa9VCG9wSniELaT8K-OBZzguf6DAk8gkmpm0xGCKvYlzan-yvMRf94_mTfG/pubhtml).
+
+I manually fixed a number of missing data values, but no numeric values
+were incorrectly imported.
 
 #### 4. Restructure for use in the table
 
