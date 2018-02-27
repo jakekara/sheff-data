@@ -19,12 +19,12 @@ The basic steps included:
 
 PDF files are available here, containing:
 
-    * The number of applicants who chose each school as their first
-      choice. The data is available for each grade all students, as well as
-      broken down based on whether the students reside in Hartford or
-      surrounding suburbs.
+* The number of applicants who chose each school as their first choice. The
+  data is available for each grade all students, as well as broken down
+  based on whether the students reside in Hartford or surrounding
+  suburbs.
 
-    * The number of offers made by each school.
+* The number of offers made by each school.
 
 ### 2. OCR the documents to Excel
 
