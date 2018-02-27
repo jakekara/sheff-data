@@ -43,33 +43,40 @@ For this, I used Adobe Acrobat Pro, and exported them to
 The file names are deceiving. They were digitized but far from
 clean. Numbers like "10" were read as the letters "IO".
 
-So I had to do more intense cleaning.
+So I had to do more intense cleaning. But first...
 
-### 3. Remove scanner mistakes and school name inconsistencies
+### 3. Merge the documents
 
-In the notebook [Odds of getting in - 2.ipynb](Odds of getting in -
-2.ipynb), I combined the two scanned sheets, then imported them into
-OpenRefine. The OpenRefine project is called
+With the two spreadsheets digitized, I used Pandas to merge them in this notebook:
+
+* Odds of getting in - 2.ipynb
+
+into this spreadsheet:
+
+* [data/hopefully-clean-odds.csv](data/hopefully-clean-odds.csv)
+
+
+### 4. Remove scanner mistakes and school name inconsistencies
+
+Then I cleaned up that sheet using OpenRefine, and included that OpenRefine
+project in this repo. The OpenRefine project is called
 [REFINED.openrefine.tar.gz](REFINED.openrefine.tar.gz).
 
 But that wasn't enough cleaning.
 
-OpenRefine is amazing for finding similar
-words that should probably be the same, but I also needed to look for other
-mistakes Refine wouldn't catch, such as empty cells that shouldn't be
-empty. 
+OpenRefine is amazing for finding similar words that should probably be the
+same, but I also needed to look for other mistakes Refine wouldn't catch,
+such as empty cells that shouldn't be empty (lots of empties were OK, since
+the raw data has many cells suppressed for student privacy).
 
-You'll note that a lot of the original data is missing, suppressed
-for privacy reasons, so that's OK. But I went through the data looking for
-cells that were empty that shouldn't be. I did that the old fashioned way,
-comparing both sheets, printed out to the product of the
-Refine process, in a Google spreadsheet
+The last step was to just manually compare the printed out raw data with
+the merged, refined spreadsheet, which I did in Google Sheets
 [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQDOK99IEzl8m6CuPk9RAa9VCG9wSniELaT8K-OBZzguf6DAk8gkmpm0xGCKvYlzan-yvMRf94_mTfG/pubhtml).
 
-I manually fixed a number of missing data values, but no numeric values
-were incorrectly imported.
+None of the numeric values were incorrect -- no 6's were read in as 8's --
+but many of the values were just missing and needed to be manually entered.
 
-#### 4. Restructure for use in the table
+#### 5. Restructure for use in the table
 
 Finally, and of no importance to anyone else, I had to restructure the data
 to wedge it into an old table display, so I did that in the [csv-to-json/structure for
