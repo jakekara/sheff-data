@@ -30,8 +30,8 @@ PDF files are available here, containing:
 
 For this, I used Adobe Acrobat Pro, and exported them to
 
-* [data/CLEANED - First Chocie Apps By School By Grade 2017-18.xlsx](data/CLEANED+-+First+Chocie+Apps+By+School+By+Grade+x2017-18.xlsx")
-* [data/CLEANED - Offers By School By Grade 2017-18.xlsx](data/CLEANED+-+Offers+By+School+By+Grade+2017-18.xlsx")
+* [data/CLEANED - First Chocie Apps By School By Grade 2017-18.xlsx]
+* [data/CLEANED - Offers By School By Grade 2017-18.xlsx]
 
 The file names are deceiving. They were digitized but far from
 clean. Numbers like "10" were read as the letters "IO".
